@@ -51,4 +51,4 @@ THEN I should have proper build scripts for a webpack application
 [Repository Link 'Click Here'.](https://github.com/SPCSanti1990/Social-Network-API)
 
 ## Deployed URL:
-[Deployed URL 'Click Here'.](https://technology-blog-mvc14-01d19b078382.herokuapp.com/)
+[Deployed URL 'Click Here'.](https://text-editor-pwa-zr74.onrender.com)
