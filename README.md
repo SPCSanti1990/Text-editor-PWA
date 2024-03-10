@@ -2,7 +2,7 @@
 Progressive Web Applications (PWA) Challenge: Text Editor
 
 ## Description:
-
+A text editor that runs in the browser
 
 ## User Story:
 ```md
@@ -40,15 +40,8 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 ```
 
-## Screenshot:
-[screenshot](./public/img/Screenshot%202024-02-04%20112149.png)
-
-## What I Learned:
-1. 
-2. 
-
 ## Repository Link:
-[Repository Link 'Click Here'.](https://github.com/SPCSanti1990/Social-Network-API)
+[Repository Link 'Click Here'.](https://github.com/SPCSanti1990/Text-editor-PWA)
 
 ## Deployed URL:
 [Deployed URL 'Click Here'.](https://text-editor-pwa-zr74.onrender.com)
